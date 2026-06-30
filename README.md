@@ -38,6 +38,15 @@ Alongside my core web stack, I also work with Python for AI agents, computer vis
 
 ---
 
+## Featured Projects
+
+| Project | Focus | Tech |
+| --- | --- | --- |
+| [new-api](https://github.com/Kaballiero/new-api) | Unified AI model gateway for aggregation, distribution, and OpenAI-compatible model access | Go, AI infrastructure, API gateway |
+| [CyberGarden](https://github.com/Kaballiero/CyberGarden) | IT solution classifier and applied data analysis project | Jupyter Notebook, Python, ML/CV |
+
+---
+
 ## Tech Stack & Tools
 
 ### Languages
